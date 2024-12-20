@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [VYLT_IOT_HAT_DEMO.PcbDoc]
+   Generated File[VYLT_IOT_HAT_DEMO.TXT]
+   Generated File[VYLT_IOT_HAT_DEMO.LDP]
+   Generated File[VYLT_IOT_HAT_DEMO.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 05:48:31 PM On 19-12-2024
